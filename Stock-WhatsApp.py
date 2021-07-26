@@ -100,10 +100,11 @@ phone_number = '1234567890'
 #Make sure to wait 5 seconds
 
 #The 5 right here ------------------------------------------------|
+kit.sendwhatmsg_instantly('+' + country_code+phone_number,message,5)
 #Is the amount of seconds of delay before sending the message
 #Make sure to leave at least 1 second of delay because your computer needs to load
 #Feel free to change the 5 to a different number
-kit.sendwhatmsg_instantly('+' + country_code+phone_number,message,5)
+
 
 #Let me know if it doesn't work or if I should change anything
 #Yahoo Finance might eventually change their website structure which could mess up the code
