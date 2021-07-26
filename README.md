@@ -1,5 +1,5 @@
 # WhatsApp-Stock-Prices
-A program that sends stock prices to given WhatsApp account. 
+A Python program that sends stock prices to given WhatsApp account. 
 
 # How it Works 
 It's pretty simple.  
